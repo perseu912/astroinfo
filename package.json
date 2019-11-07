@@ -1,0 +1,27 @@
+{
+  "name": "astronomauta",
+  "version": "1.0.0",
+  "description": "project if-sertao of astronomy",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perseu912/astroinfo.git"
+  },
+  "author": "reinan_br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perseu912/astroinfo/issues"
+  },
+  "homepage": "https://github.com/perseu912/astroinfo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "nodemon": "^1.19.4",
+    "npm": "^6.13.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.3.0"
+  }
+}
